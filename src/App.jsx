@@ -13,7 +13,7 @@ function App() {
   }
   return (
     <div>
-     <h1>Clor Mixer</h1>
+     <h1>Color Mixer</h1>
      <div style={{backgroundColor:'rgb('+r+','+g+','+b+')', height:200 , width:200}}>
 
      </div>
